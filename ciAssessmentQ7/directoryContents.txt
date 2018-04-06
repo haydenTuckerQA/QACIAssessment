@@ -1,0 +1,1 @@
+changeFileToScript.sh directoryContents.txt echoCopyContents.sh test.sh
